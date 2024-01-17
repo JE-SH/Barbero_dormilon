@@ -1,0 +1,21 @@
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\bin\Debug\Barber.exe.config
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\bin\Debug\Barber.exe
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\bin\Debug\Barber.pdb
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\obj\Debug\Barber.csproj.AssemblyReference.cache
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\obj\Debug\Barber.Form1.resources
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\obj\Debug\Barber.Properties.Resources.resources
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\obj\Debug\Barber.csproj.GenerateResource.cache
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\obj\Debug\Barber.csproj.CoreCompileInputs.cache
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\obj\Debug\Barber.exe
+C:\Users\jesh2\Documents\Proyects\Barber\Barber\obj\Debug\Barber.pdb
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\bin\Debug\Barber.exe.config
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\bin\Debug\Barber.exe
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\bin\Debug\Barber.pdb
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\obj\Debug\Barber.csproj.AssemblyReference.cache
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\obj\Debug\Barber.csproj.SuggestedBindingRedirects.cache
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\obj\Debug\Barber.Form1.resources
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\obj\Debug\Barber.Properties.Resources.resources
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\obj\Debug\Barber.csproj.GenerateResource.cache
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\obj\Debug\Barber.csproj.CoreCompileInputs.cache
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\obj\Debug\Barber.exe
+E:\Documentos\UNI\6\Seminario uso\Barbero\Barber\Barber\obj\Debug\Barber.pdb
